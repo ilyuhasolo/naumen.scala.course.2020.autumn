@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [debug] > Exec(__stopWatch console0, None, None)
 [debug] > Exec(__waitWatch console0, None, None)
 [debug] > Exec(resumeFromFailure, None, None)
@@ -6,3 +7,13 @@
 [debug] > Exec(idea-shell, None, None)
 [debug] > Exec(, None, None)
 [debug] > Exec(idea-shell, None, None)
+=======
+[debug] > Exec(__stopWatch console0, None, None)
+[debug] > Exec(__waitWatch console0, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+>>>>>>> Stashed changes
